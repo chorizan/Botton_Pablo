@@ -1,0 +1,19 @@
+.boton{
+    position: relative;
+    width: 150px;
+    background: green;
+    color: white;
+    border-radius: 5px;
+}
+.subtom{
+    background: red;
+    width: 100px;
+    color: white;
+    border-radius: 5px;
+}
+.cop{
+    background: rgb(0, 119, 167);
+    width: 100px;
+    color: white;
+    border-radius: 5px
+}
